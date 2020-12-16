@@ -1,0 +1,15 @@
+{
+  "name": "appcontext",
+  "version": "1.0.0",
+  "description": "",
+  "module": "index.js",
+  "scripts": {
+    "test": "mocha test --require esm"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^8.2.1"
+  }
+}
